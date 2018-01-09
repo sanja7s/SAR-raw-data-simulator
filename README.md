@@ -2,8 +2,7 @@
 
 SAR raw data acquistion simulator based on the book:
 
-DIGITAL SIGNAL PROCESSING TECHNIQUES AND APPLICATIONS IN RADAR IMAGE PROCESSING
-Bu-Chin Wang
+DIGITAL SIGNAL PROCESSING TECHNIQUES AND APPLICATIONS IN RADAR IMAGE PROCESSING by Bu-Chin Wang.
 
 *LFM-tests* gives formulas for creating LFM pulsed signal (symmetric and nonsymmetric) and its visualization.
 
