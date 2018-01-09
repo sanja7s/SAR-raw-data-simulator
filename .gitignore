@@ -18,8 +18,6 @@ __pycache__/
 /.doit.db.dat
 /.doit.db.dir
 
-# C extensions
-*.so
 
 # Distribution / packaging
 .Python
@@ -50,36 +48,6 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-.static_storage/
-.media/
-local_settings.py
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
 
 # PyBuilder
 target/
@@ -90,11 +58,7 @@ target/
 # pyenv
 .python-version
 
-# celery beat schedule file
-celerybeat-schedule
 
-# SageMath parsed files
-*.sage.py
 
 # Environments
 .env
@@ -109,27 +73,6 @@ venv.bak/
 .spyderproject
 .spyproject
 
-# Rope project settings
-.ropeproject
 
 # mkdocs documentation
 /site
-
-# mypy
-.mypy_cache/
-
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
-
